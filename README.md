@@ -1,2 +1,1 @@
-# LargeAddressAwarePatcher
-Large Address Aware patcher destiné à Final Fantasy XI (pol.exe)
+The patch enables Large Address Aware mode on Final Fantasy XI's pol.exe, allowing the game to increase its RAM usage from approximately 2 GB to nearly 4 GB on 64-bit Windows, resulting in fewer crashes and greater stability. The patcher verifies the file, creates a backup, and applies the change cleanly. After each game update, simply reinstall the patch. I hope you find this helpful!
